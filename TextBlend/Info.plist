@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.5</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Android Insomnia Regular.ttf</string>
+		<string>Arcade Future.otf</string>
+		<string>Arcade_Fire.ttf</string>
+		<string>ARCADE_N.TTF</string>
+		<string>ARCADE_R.TTF</string>
+		<string>Epicenter-TwoStroke.ttf</string>
+		<string>Jocoba.ttf</string>
+		<string>libertylegion3d.ttf</string>
+		<string>libertylegion3dlaser.ttf</string>
+		<string>libertylegionchrome.ttf</string>
+		<string>libertylegioncond.ttf</string>
+		<string>libertylegiongrad.ttf</string>
+		<string>libertylegionhalf.ttf</string>
+		<string>libertylegionlaser.ttf</string>
+		<string>libertylegionsemital.ttf</string>
+		<string>mechanik-Bold.ttf</string>
+		<string>MyGirlIsRetroDEMO.ttf</string>
+		<string>newmarssemital.ttf</string>
+		<string>paladinsstraight.ttf</string>
+		<string>PressStart2P.ttf</string>
+		<string>Reqruit-2.otf</string>
+		<string>SF Atarian System Extended Bold Italic.ttf</string>
+		<string>SF Square Head Italic.ttf</string>
+		<string>skymarshalexpandital.ttf</string>
+		<string>Star Force TTF.TTF</string>
+		<string>supercommando.ttf</string>
+		<string>supercommandohalf.ttf</string>
+		<string>supercommandolaser.ttf</string>
+		<string>Thumbs UP.ttf</string>
+		<string>Tricube.ttf</string>
+		<string>Ampad Brush.ttf</string>
+		<string>Art Brewery.ttf</string>
+		<string>Brush Strokes.ttf</string>
+		<string>Brushed.ttf</string>
+		<string>BTTTRIAL.ttf</string>
+		<string>CaliBrush.otf</string>
+		<string>Claudette aime le Chocolat.ttf</string>
+		<string>DarkWaters-Regular.otf</string>
+		<string>DarkWaters-Regular.ttf</string>
+		<string>Dead Island.ttf</string>
+		<string>edo.ttf</string>
+		<string>Imagination Station.ttf</string>
+		<string>LEVIBRUSH.TTF</string>
+		<string>mrsmonster.ttf</string>
+		<string>mrsmonster3d.ttf</string>
+		<string>mrsmonsteracad.ttf</string>
+		<string>Olympic Branding.ttf</string>
+		<string>Polo Brush.ttf</string>
+		<string>SilkRoad.ttf</string>
+		<string>Sin City.ttf</string>
+		<string>Stencil Brush.ttf</string>
+		<string>Sticky Things.ttf</string>
+		<string>Story Book.otf</string>
+		<string>Texas.ttf</string>
+		<string>The Best Night.ttf</string>
+		<string>the Citizens.ttf</string>
+		<string>True Lies.ttf</string>
+		<string>WARBRUSH.ttf</string>
+		<string>WolfsRain.ttf</string>
+		<string>Zing Easy.ttf</string>
+		<string>a_dark_wedding__2007.ttf</string>
+		<string>Alanden_.ttf</string>
+		<string>AlbertText-Bold.ttf</string>
+		<string>AlexBrush-Regular.ttf</string>
+		<string>Alpine.ttf</string>
+		<string>alterna.ttf</string>
+		<string>Amptmann Script.ttf</string>
+		<string>Argel Font Trial.otf</string>
+		<string>ARRRMB__.TTF</string>
+		<string>BLESD___.otf</string>
+		<string>broken_planew.ttf</string>
+		<string>DUKEPLUS.TTF</string>
+		<string>Fiddums Family.ttf</string>
+		<string>Grafik Text.ttf</string>
+		<string>MardianDemo.ttf</string>
+		<string>MilasianThinPERSONAL.ttf</string>
+		<string>NinaScriptDemo.ttf</string>
+		<string>Pharmount_PersonalUseOnly.ttf</string>
+		<string>Precious.ttf</string>
+		<string>RecordaScript_Personal_Use_Only.ttf</string>
+		<string>Respective_Slanted.ttf</string>
+		<string>rm_albion.ttf</string>
+		<string>Sable.ttf</string>
+		<string>Seaside Heights.ttf</string>
+		<string>SEVEMFBR.TTF</string>
+		<string>SEVESBRG.TTF</string>
+		<string>squealer embossed.ttf</string>
+		<string>Stackyard_PERSONAL_USE.ttf</string>
+		<string>THEDREAM TRIAL.otf</string>
+		<string>YaquoteScript_PersonalUse.ttf</string>
+		<string>Candcu__.ttf</string>
+		<string>Candk___.ttf</string>
+		<string>Candr___.ttf</string>
+		<string>CANDSB__.TTF</string>
+		<string>CANDY 2.TTF</string>
+		<string>Candy Script.ttf</string>
+		<string>CANDY___.otf</string>
+		<string>CANDY.TTF</string>
+		<string>Candylicious.ttf</string>
+		<string>candystr 2.ttf</string>
+		<string>CandyTime-2.ttf</string>
+		<string>CONNR___.TTF</string>
+		<string>cosmosca.ttf</string>
+		<string>Double_Bubble_shadow.otf</string>
+		<string>HANDYCANDY.TTF</string>
+		<string>Invader Candy.ttf</string>
+		<string>KGCandyCaneStripe 2.ttf</string>
+		<string>KR Candy Kiss.ttf</string>
+		<string>KR Cane Letters.ttf</string>
+		<string>KR Summer Candy.ttf</string>
+		<string>Mf Candy.ttf</string>
+		<string>mint3.ttf</string>
+		<string>Peppermint Canes.otf</string>
+		<string>Pez_font.TTF</string>
+		<string>PinkCandyPopcornFont.ttf</string>
+		<string>Spear_Mint.ttf</string>
+		<string>stripefest.ttf</string>
+		<string>SWEEHB__.TTF</string>
+		<string>SWEETASCANDY.TTF</string>
+		<string>WildRide.ttf</string>
+		<string>WildRideBackfill.ttf</string>
+		<string>Bad Gong.ttf</string>
+		<string>Blah blah bang.ttf</string>
+		<string>chawp.ttf</string>
+		<string>Colored Crayons.ttf</string>
+		<string>DK Crayon Crumble.ttf</string>
+		<string>EraserRegular.ttf</string>
+		<string>FFF_Tusj.ttf</string>
+		<string>Fine Blackboard.ttf</string>
+		<string>Firestarter Z.ttf</string>
+		<string>GrutchShaded.ttf</string>
+		<string>Justaword.ttf</string>
+		<string>KGBlankSpaceSketch.ttf</string>
+		<string>KGBrokenVesselsSketch.ttf</string>
+		<string>KGChasingPavements.ttf</string>
+		<string>KGMakesYouStronger.ttf</string>
+		<string>KGNoRegretsSketch.ttf</string>
+		<string>KGSecondChancesSketch.ttf</string>
+		<string>KGTangledUpInYou.ttf</string>
+		<string>KGTenThousandReasons.ttf</string>
+		<string>KR Rachel&apos;s Chalkboard.ttf</string>
+		<string>PPETRIAL.ttf</string>
+		<string>PWChalk.ttf</string>
+		<string>PWRoundedScratch.ttf</string>
+		<string>RechtmanPlain.ttf</string>
+		<string>Smudgie Crayon.ttf</string>
+		<string>SqueakyChalkSound.ttf</string>
+		<string>VTCAllSkratchedUpOne.ttf</string>
+		<string>vtks chalk 79.ttf</string>
+		<string>vtks noise.ttf</string>
+		<string>whatever it takes bold.ttf</string>
+		<string>Beyond Wonderland.ttf</string>
+		<string>Bonnet__.ttf
+CalamityJaneNF-Bold.ttf
+Candle3D.ttf
+CFGrandNord-Regular.ttf
+CFTuques.ttf
+CHRICI__.TTF
+Christbaumkugeln.ttf
+Christmas Snow.ttf
+Christmas.ttf
+City of Light.ttf
+DickensianChristmas.ttf
+FONTLERO.TTF
+FROSW___.TTF
+GebetbuchFraktur.ttf
+Holly Christmas.ttf
+IceCaps.ttf
+Kingthings Christmas.ttf
+KR Cane Letters.ttf
+KR Oh Christmas Tree.TTF
+MerryChristmasFlake.ttf
+PWHappyChristmas.ttf
+SantasSleighFull Deluxe.ttf
+SANTBSB_ 2.TTF
+satan_hum_sav.ttf
+Sentinel.ttf
+Snowflake Letters.ttf
+Snowinter-Free-For-Personal-Use.ttf
+traditio.ttf
+VeryChristmess.ttf</string>
+		<string>CalamityJaneNF-Bold.ttf</string>
+		<string>Candle3D.ttf</string>
+		<string>CFGrandNord-Regular.ttf</string>
+		<string>CFTuques.ttf</string>
+		<string>CHRICI__.TTF</string>
+		<string>Christbaumkugeln.ttf</string>
+		<string>Christmas Snow.ttf</string>
+		<string>Christmas.ttf</string>
+		<string>City of Light.ttf</string>
+		<string>DickensianChristmas.ttf</string>
+		<string>FONTLERO.TTF</string>
+		<string>FROSW___.TTF</string>
+		<string>GebetbuchFraktur.ttf</string>
+		<string>Holly Christmas.ttf</string>
+		<string>IceCaps.ttf</string>
+		<string>Kingthings Christmas.ttf</string>
+		<string>KR Cane Letters.ttf</string>
+		<string>KR Oh Christmas Tree.TTF</string>
+		<string>MerryChristmasFlake.ttf</string>
+		<string>PWHappyChristmas.ttf</string>
+		<string>SantasSleighFull Deluxe.ttf</string>
+		<string>SANTBSB_ 2.TTF</string>
+		<string>satan_hum_sav.ttf</string>
+		<string>Sentinel.ttf</string>
+		<string>Snowflake Letters.ttf</string>
+		<string>Snowinter-Free-For-Personal-Use.ttf</string>
+		<string>traditio.ttf</string>
+		<string>VeryChristmess.ttf</string>
+		<string>animeace.ttf
+BadaboomBB_Reg.otf
+blamblambb_hvy.ttf
+cartoon.ttf
+Comic Book Bold.otf
+Comic Gibi Bold.ttf
+Comic Tragedy - BC.ttf
+Comica BD.ttf
+Comiccity.ttf
+deathrattlebb_reg.ttf
+electrox.ttf
+From Cartoon Blocks.ttf
+HilariousComics.ttf
+InhumanBB.ttf
+left hand comic.ttf
+MISTV___.TTF
+Naughty Cartoons.ttf
+Peacenow Basic.ttf
+PWComics.ttf
+pythia.ttf
+rm_playtime.ttf
+samuraicabcooutbb.ttf
+SanitariumBB.ttf
+SEVEMFBR.TTF
+SEVESBRG.TTF
+shinAkibapunx.ttf
+SketchyComic.ttf
+umberto.ttf
+WillyWonka.ttf</string>
+		<string>BadaboomBB_Reg.otf</string>
+		<string>blamblambb_hvy.ttf</string>
+		<string>cartoon.ttf</string>
+		<string>Comic Book Bold.otf</string>
+		<string>Comic Gibi Bold.ttf</string>
+		<string>Comic Tragedy - BC.ttf</string>
+		<string>Comica BD.ttf</string>
+		<string>Comiccity.ttf</string>
+		<string>deathrattlebb_reg.ttf</string>
+		<string>electrox.ttf</string>
+		<string>From Cartoon Blocks.ttf</string>
+		<string>HilariousComics.ttf</string>
+		<string>InhumanBB.ttf</string>
+		<string>left hand comic.ttf</string>
+		<string>MISTV___.TTF</string>
+		<string>Naughty Cartoons.ttf</string>
+		<string>Peacenow Basic.ttf</string>
+		<string>PWComics.ttf</string>
+		<string>pythia.ttf</string>
+		<string>rm_playtime.ttf</string>
+		<string>samuraicabcooutbb.ttf</string>
+		<string>SanitariumBB.ttf</string>
+		<string>SEVEMFBR.TTF</string>
+		<string>SEVESBRG.TTF</string>
+		<string>shinAkibapunx.ttf</string>
+		<string>SketchyComic.ttf</string>
+		<string>umberto.ttf</string>
+		<string>WillyWonka.ttf</string>
+		<string>AguafinaScript-Regular.ttf</string>
+		<string>Arabella.ttf</string>
+		<string>aramisi.ttf</string>
+		<string>avocado_.otf</string>
+		<string>Avocado.ttf</string>
+		<string>b-de-bonita-shadow.ttf</string>
+		<string>chancur.ttf</string>
+		<string>colourbars.ttf</string>
+		<string>Condiment-Regular.ttf</string>
+		<string>Cursive Option.ttf</string>
+		<string>Damion-Regular.ttf</string>
+		<string>DobkinScript.ttf</string>
+		<string>DSGabriele.ttf</string>
+		<string>Dynalight-Regular.ttf</string>
+		<string>goodfoot.ttf</string>
+		<string>Italianno-Regular.ttf</string>
+		<string>Kurnia.ttf</string>
+		<string>LaBelleAurore.ttf</string>
+		<string>LetsTraceItalic.otf</string>
+		<string>Lucian Schoenschrift CAT.ttf</string>
+		<string>MarckScript-Regular.ttf</string>
+		<string>MarketingScript-Shadow.ttf</string>
+		<string>mathilde.otf</string>
+		<string>MervaleScript-Regular.ttf</string>
+		<string>OilBats.ttf</string>
+		<string>Otto.ttf</string>
+		<string>Popsies.ttf</string>
+		<string>SANTO___.TTF</string>
+		<string>Scribble.ttf</string>
+		<string>SFBurlingtonScript-Italic.ttf</string>
+		<string>amsterdam.ttf</string>
+		<string>Brock Vandalo.ttf</string>
+		<string>Brooklyn-Inline.ttf</string>
+		<string>cigar.ttf</string>
+		<string>degrassi front.ttf</string>
+		<string>degrassi.ttf</string>
+		<string>DJGROSS.ttf</string>
+		<string>Font (el&amp;font bubble).ttf</string>
+		<string>Graffogie.otf</string>
+		<string>graffonti.3d.drop.[fontvir.us].ttf</string>
+		<string>homeboy.TTF</string>
+		<string>Inner City.ttf</string>
+		<string>JUSTFIST.ttf</string>
+		<string>JUSTFIST2.ttf</string>
+		<string>MAELS___.TTF</string>
+		<string>MisdemeanorDEMO-KCFonts.ttf</string>
+		<string>Mostwasted.ttf</string>
+		<string>RESKAGRAF.TTF</string>
+		<string>RuthlessWreckin2.ttf</string>
+		<string>Sprite Graffiti Extras.otf</string>
+		<string>Sprite Graffiti Shadow.otf</string>
+		<string>Sprite Graffiti.otf</string>
+		<string>Stylin BRK.otf</string>
+		<string>Take Warning.otf</string>
+		<string>TheBattleCont.ttf</string>
+		<string>urban decay.ttf</string>
+		<string>UrbanJungleDEMO.otf</string>
+		<string>writers.ttf</string>
+		<string>youmurdererbb_reg.otf</string>
+		<string>ZITGRAFF.TTF</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~iphone</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>
